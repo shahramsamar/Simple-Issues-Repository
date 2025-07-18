@@ -19,7 +19,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or suggestions, feel free to contact:
 
 - **Author:** Shahramsamar
-- **Email:** [shahramsamar2010@gmail.com](mailto:shahramsamar2010@gmail.com)
+- **Email:** [shahramsamar2010@gmail.com](mailto:shahramsamar.dev@gmail.com)
 - **GitHub:** [shahramsamar](https://github.com/shahramsamar)
 
 ---
